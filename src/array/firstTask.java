@@ -2,7 +2,7 @@ package array;
 //Сумма и произведение элементов одномерного массива
 public class firstTask {
     public static void main(String[] args) {
-        int [] array = {1,5,1};
+        int [] array = {1,1,1};
         int sum = 0;
         int multiply = 1;
         for (int num : array){
